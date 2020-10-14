@@ -1,3 +1,8 @@
+//
+// App
+// https://github.com/cowlik/lightswitch
+//
+
 import React, { useState } from 'react';
 import './style.scss';
 import LightBulb from '../LightBulb';

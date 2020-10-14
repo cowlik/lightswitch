@@ -1,3 +1,8 @@
+//
+// LightSwitch
+// https://github.com/cowlik/lightswitch
+//
+
 import React, { useEffect, useState } from 'react';
 import './style.scss';
 

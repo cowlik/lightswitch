@@ -1,3 +1,8 @@
+//
+// LightBulb
+// https://github.com/cowlik/lightswitch
+//
+
 import React, { useEffect } from 'react';
 import './style.scss';
 

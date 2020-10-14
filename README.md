@@ -1,3 +1,5 @@
 # LightSwitch
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+## Demo
+
+[codepen.io/cowlik/pen/mdEeGPX](https://codepen.io/cowlik/pen/mdEeGPX)
